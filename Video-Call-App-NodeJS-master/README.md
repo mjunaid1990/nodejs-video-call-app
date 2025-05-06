@@ -19,9 +19,6 @@ A conference call implementation using WebRTC, Socket.io and Node.js. This demo 
 - Screen Recording
 - Video Recording
 
- 
-# Demo
-You can test at https://chat.1410inc.xyz.
 
 
 # Note
